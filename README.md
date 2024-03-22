@@ -1,0 +1,2 @@
+# fastovuforiaDemo
+about machine
